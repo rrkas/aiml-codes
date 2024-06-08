@@ -15,3 +15,4 @@
 
 1. [PyTorch-regression-linear-01.ipynb](./notebooks/PyTorch-regression-linear-01.ipynb)
 1. [PyTorch-regression-linear-02.ipynb](./notebooks/PyTorch-regression-linear-02.ipynb)
+1. [PyTorch-regression-linear-03.ipynb](./notebooks/PyTorch-regression-linear-03.ipynb)
